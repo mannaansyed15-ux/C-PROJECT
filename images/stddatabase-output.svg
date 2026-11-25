@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Sample student database program output</title>
+  <desc id="desc">Terminal-style sample showing entered roll number, name, department, and marks followed by the printed student record.</desc>
+  <rect width="900" height="330" rx="18" fill="#101820"/>
+  <path d="M18 0h864a18 18 0 0 1 18 18v30H0V18A18 18 0 0 1 18 0Z" fill="#263746"/>
+  <circle cx="28" cy="24" r="7" fill="#ff6b6b"/><circle cx="52" cy="24" r="7" fill="#ffd166"/><circle cx="76" cy="24" r="7" fill="#06d6a0"/>
+  <text x="450" y="31" text-anchor="middle" fill="#d9e2ec" font-family="monospace" font-size="16" font-weight="bold">STUDENT DATABASE — SAMPLE OUTPUT</text>
+  <g fill="#a8f0c6" font-family="monospace" font-size="18" font-weight="bold">
+    <text x="38" y="83">Enter Roll Number:101</text>
+    <text x="38" y="113">Enter Name:Sabareesh</text>
+    <text x="38" y="143">Enter Department:CSE</text>
+    <text x="38" y="173">Enter Marks:95</text>
+    <text x="38" y="218">STUDENT RECORD</text>
+    <text x="38" y="248">Roll Number:101</text>
+    <text x="390" y="248">Name:Sabareesh</text>
+    <text x="38" y="278">Department:CSE</text>
+    <text x="390" y="278">Marks:95</text>
+  </g>
+</svg>

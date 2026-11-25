@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" role="img" aria-labelledby="title desc">
+  <title id="title">Sample calculator program output</title>
+  <desc id="desc">Bold terminal-style sample for calculator addition, adding 12 and 8 to get 20.</desc>
+  <rect width="900" height="310" rx="18" fill="#101820"/><rect width="900" height="48" rx="18" fill="#263746"/>
+  <circle cx="28" cy="24" r="7" fill="#ff6b6b"/><circle cx="52" cy="24" r="7" fill="#ffd166"/><circle cx="76" cy="24" r="7" fill="#06d6a0"/>
+  <text x="450" y="31" text-anchor="middle" fill="#d9e2ec" font-family="monospace" font-size="16" font-weight="bold">CALCULATOR — SAMPLE OUTPUT</text>
+  <g fill="#a8f0c6" font-family="monospace" font-size="19" font-weight="bold">
+    <text x="38" y="92">______________________________Calculator Menu______________________________</text>
+    <text x="38" y="128">1. Addition (+)</text><text x="38" y="158">2. Subtraction (-)</text>
+    <text x="38" y="188">3. Multiplication (*)</text><text x="38" y="218">4. Division (/)</text>
+    <text x="38" y="258">Enter your choice (1-4): 1</text><text x="480" y="258">Number one: 12</text>
+    <text x="38" y="288">Number two: 8</text><text x="480" y="288">Result: 12.00+8.00=20.00</text>
+  </g>
+</svg>

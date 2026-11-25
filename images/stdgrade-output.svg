@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-labelledby="title desc">
+  <title id="title">Sample student grade program output</title>
+  <desc id="desc">Bold terminal-style student report for Sabareesh with five marks, average, pass result, and grade A plus.</desc>
+  <rect width="900" height="380" rx="18" fill="#101820"/><rect width="900" height="48" rx="18" fill="#263746"/>
+  <circle cx="28" cy="24" r="7" fill="#ff6b6b"/><circle cx="52" cy="24" r="7" fill="#ffd166"/><circle cx="76" cy="24" r="7" fill="#06d6a0"/>
+  <text x="450" y="31" text-anchor="middle" fill="#d9e2ec" font-family="monospace" font-size="16" font-weight="bold">STUDENT GRADE REPORT — SAMPLE OUTPUT</text>
+  <g fill="#a8f0c6" font-family="monospace" font-size="19" font-weight="bold">
+    <text x="38" y="96">---- STUDENT REPORT ----</text>
+    <text x="38" y="136">Student Name : Sabareesh</text>
+    <text x="38" y="170">Mark 1       : 90</text><text x="38" y="200">Mark 2       : 85</text>
+    <text x="38" y="230">Mark 3       : 78</text><text x="38" y="260">Mark 4       : 88</text>
+    <text x="38" y="290">Mark 5       : 92</text>
+    <text x="470" y="170">Total        : 433</text><text x="470" y="200">Average      : 86.60</text>
+    <text x="470" y="230">Result       : PASS</text><text x="470" y="260">Grade        : A</text>
+    <text x="38" y="338" fill="#8da2b5">Example invocation: ./STDGRADE Sabareesh 90 85 78 88 92</text>
+  </g>
+</svg>

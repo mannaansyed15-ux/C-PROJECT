@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sample feedback program output</title>
+  <desc id="desc">Bold terminal-style preview of the feedback text written to feedback.txt and printed by the program.</desc>
+  <rect width="900" height="360" rx="18" fill="#101820"/><rect width="900" height="48" rx="18" fill="#263746"/>
+  <circle cx="28" cy="24" r="7" fill="#ff6b6b"/><circle cx="52" cy="24" r="7" fill="#ffd166"/><circle cx="76" cy="24" r="7" fill="#06d6a0"/>
+  <text x="450" y="31" text-anchor="middle" fill="#d9e2ec" font-family="monospace" font-size="16" font-weight="bold">FEEDBACK FILE — SAMPLE OUTPUT</text>
+  <g fill="#a8f0c6" font-family="monospace" font-size="16" font-weight="bold">
+    <text x="32" y="90">FEEDBACK ABOUT C PROGRAMMING LANGUAGE</text>
+    <text x="32" y="132">1. Even if I don't understand what my mentor was saying,</text>
+    <text x="56" y="158">I still can code in C programming language.</text>
+    <text x="32" y="198">2. My mentor's notes helped me code, solve mock tests,</text>
+    <text x="56" y="224">and pass the examinations.</text>
+    <text x="32" y="264">3. His notes are very easy to understand.</text>
+    <text x="32" y="304">4. Overall, the classes are amazing.</text>
+    <text x="32" y="338" fill="#8da2b5">Printed from feedback.txt</text>
+  </g>
+</svg>

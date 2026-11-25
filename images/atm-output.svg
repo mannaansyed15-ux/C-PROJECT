@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-labelledby="title desc">
+  <title id="title">Sample ATM program output</title>
+  <desc id="desc">Bold terminal-style sample showing successful ATM login, balance check, and exit.</desc>
+  <rect width="900" height="380" rx="18" fill="#101820"/>
+  <rect width="900" height="48" rx="18" fill="#263746"/>
+  <circle cx="28" cy="24" r="7" fill="#ff6b6b"/><circle cx="52" cy="24" r="7" fill="#ffd166"/><circle cx="76" cy="24" r="7" fill="#06d6a0"/>
+  <text x="450" y="31" text-anchor="middle" fill="#d9e2ec" font-family="monospace" font-size="16" font-weight="bold">ATM SIMULATOR — SAMPLE OUTPUT</text>
+  <g fill="#a8f0c6" font-family="monospace" font-size="19" font-weight="bold">
+    <text x="38" y="94">===== WELCOME TO ATM =====</text>
+    <text x="38" y="128">Enter your PIN: 1234</text>
+    <text x="38" y="162">Login Successful!</text>
+    <text x="38" y="208">===== ATM MENU =====</text>
+    <text x="38" y="240">1. Check Balance</text><text x="38" y="270">2. Deposit Money</text>
+    <text x="38" y="300">3. Withdraw Money</text><text x="38" y="330">4. Exit</text>
+    <text x="430" y="240">Enter your choice: 1</text>
+    <text x="430" y="270">Your Balance: Rs. 5000.00</text>
+    <text x="430" y="330">Thank You for Using ATM!</text>
+  </g>
+</svg>

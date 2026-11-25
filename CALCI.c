@@ -48,5 +48,3 @@ printf("Invalid operator! Please select the option between (1to4)");
 getch();
 
 }
-
-
